@@ -1,6 +1,6 @@
 # Hey, I'm Viktor 👋
 
-Fullstack dev, 23, running on coffee and a questionable sleep schedule soon based in **Alicante, Spain** 🇪🇸
+Fullstack dev, 23, running on coffee and a questionable sleep schedule from **Gijón, Spain** 🇪🇸
 
 I build the boring-but-important stuff — CRMs, dashboards, billing flows — and then go home and write Telegram bots about gacha games. Balance.
 
@@ -46,18 +46,6 @@ Currently building **[Sylvia Gon CRM](https://crm.sylviagon.com)** — a full pr
 - **[kronekort](https://github.com/wwdfx/kronekort)** — Python utility project
 - **[norwegian-vocab-app](https://github.com/wwdfx/norwegian-vocab-app)** — learning Norwegian the hard way: by building an app for it
 - **[crypto-exchange-simulator](https://github.com/wwdfx/crypto-exchange-simulator)** — trade fake money, lose nothing
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwdfx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wwdfx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
