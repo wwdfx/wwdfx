@@ -1,6 +1,6 @@
 # Hey, I'm Viktor 👋
 
-Fullstack dev, 23, running on coffee and a questionable sleep schedule from **Gijón, Spain** 🇪🇸
+Fullstack dev, 23, running on coffee and a questionable sleep schedule based in **Alicante, Spain** 🇪🇸
 
 I build the boring-but-important stuff — CRMs, dashboards, billing flows — and then go home and write Telegram bots about gacha games. Balance.
 
