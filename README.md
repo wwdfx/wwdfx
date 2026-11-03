@@ -1,6 +1,6 @@
 # Hey, I'm Viktor 👋
 
-Fullstack dev, 23, running on coffee and a questionable sleep schedule based in **Alicante, Spain** 🇪🇸
+Fullstack dev, 23, running on coffee and a questionable sleep schedule based in **Torrevieja, Spain** 🇪🇸
 
 I build the boring-but-important stuff — CRMs, dashboards, billing flows — and then go home and write Telegram bots about gacha games. Balance.
 
@@ -53,7 +53,7 @@ Currently building **[Sylvia Gon CRM](https://crm.sylviagon.com)** — a full pr
 
 **Open to freelance and full-time work** — especially CRM/SaaS builds, React + TypeScript frontends, or anything that needs Stripe wired up properly.
 
-- 📍 Gijón, Spain (remote-friendly, CET)
+- 📍 Torrevieja, Spain (remote-friendly, CET)
 - 💼 Currently at Sylvia Gon AS
 - 📫 Reach me: [weikeduo.s@gmail.com](mailto:weikeduo.s@gmail.com)
 
